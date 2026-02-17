@@ -1,7 +1,5 @@
 ---
 
-fecha: Febrero 2026
-title: Plantilla arc42
 ![Plantilla arc42](./docs/images/arc42-logo.png)
 
 ---
