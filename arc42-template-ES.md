@@ -1,6 +1,6 @@
 ---
 fecha: Febrero 2026
-title: Plantilla ![arc42](docs/images/arc42-logo.png)
+title: ![Plantilla arc42](./docs/images/arc42-logo.png)
 ---
 
 # 1. Introducción y Metas
@@ -89,7 +89,7 @@ Los usuarios interactúan con el sistema para realizar operaciones como:
 
 ## Diagrama de Contexto
 
-![Diagrama de Contexto](docs/images/Diagrama%20de%20Contexto.png)
+![Diagrama de Contexto](./docs/images/Diagrama%20de%20Contexto.png)
 
 ---
 
@@ -155,7 +155,7 @@ Responsable de:
 
 ## Diagrama de Contenedores
 
-![Diagrama de Contenedores](docs/images/Diagrama%20de%20Contenedores.png)
+![Diagrama de Contenedores](./docs/images/Diagrama%20de%20Contenedores.png)
 
 ---
 
@@ -179,7 +179,7 @@ Este escenario describe el proceso cuando el usuario registra una entrada de inv
 
 ## Diagrama de Secuencia
 
-![Diagrama de Secuencia](docs/images/Diagrama%20de%20Secuencia.png)
+![Diagrama de Secuencia](./docs/images/Diagrama%20de%20Secuencia.png)
 
 ---
 
@@ -295,7 +295,7 @@ Esta arquitectura permite:
 
 ## Diagrama de Despliegue
 
-![Diagrama de Despliegue](docs/images/Diagrama%20de%20Despliegue.png)
+![Diagrama de Despliegue](./docs/images/Diagrama%20de%20Despliegue.png)
 
 ---
 
