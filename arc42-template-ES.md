@@ -16,7 +16,7 @@ El sistema permitirá administrar los módulos de:
 - Facturación Electrónica
 - Stock y Costos
 - Activos Fijos
-- Empleados
+- RR.HH.
 - EIS (Executive Information System)
 
 Este sistema permitirá mejorar el control, la organización y la toma de decisiones dentro del negocio.
@@ -38,6 +38,7 @@ Diseñar un sistema ERP funcional, integrable y comercializable, capaz de gestio
 | Responsable de Compras | Gestiona compras | Crear y consultar órdenes |
 | Responsable de Facturación | Maneja facturas | Generar facturas |
 | Gerencia | Toma decisiones | Consultar reportes |
+| Responsable de Recursos Humanos | Gestiona los empleados | Registrar empleados, gestionar nómina y consultar información |
 
 ---
 
@@ -96,8 +97,9 @@ Los usuarios interactúan con el sistema para realizar operaciones como:
 
 ## Sistemas Externos
 
-- Sistema Contable
-- Sistema Bancario
+- Sistema Contable: Recibe información financiera del ERP
+- Sistema Bancario: Gestiona pagos y transacciones
+- Sistema DIAN: Recibe facturación electrónica y valida información fiscal
 
 ---
 
@@ -108,6 +110,7 @@ Los usuarios interactúan con el sistema para realizar operaciones como:
 - Responsable de Facturación
 - Gestor de Inventario
 - Gerencia
+- Responsable de Recursos Humanos
 
 ---
 
